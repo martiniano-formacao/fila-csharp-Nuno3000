@@ -15,7 +15,7 @@ namespace Queue1
 
                 "Coimbra", "Lisboa", "Porto", "Faro"
             */
-
+            string[] cidades = { "Coimbra", "Lisboa", "Porto", "Faro" };
             //_______ cidades = { _________ };
 
             /*
